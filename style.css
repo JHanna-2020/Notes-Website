@@ -1,8 +1,14 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
 th{
 
-    border: blue solid 1px;
+    background-color:#000;
+    color:#fff;
+    border:1px solid black;
     padding-left: 100px;
     padding-right: 100px;
+    font-weight: 700;
 
 }
 td{
@@ -12,5 +18,10 @@ td{
 
 }
 #bio{
-    background-color: #99FFCC
+    background-color: #99FFCC;
+    font-weight: 400;
+}
+#hist{
+    background-color: #99FFFF;
+    font-weight: 400;
 }
