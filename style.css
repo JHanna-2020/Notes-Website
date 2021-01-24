@@ -5,7 +5,7 @@ th{
 
     background-color:#000;
     color:#fff;
-    border:1px solid black;
+    border:1px solid white;
     padding-left: 100px;
     padding-right: 100px;
     font-weight: 700;
@@ -20,8 +20,27 @@ td{
 #bio{
     background-color: #99FFCC;
     font-weight: 400;
+   
 }
 #hist{
     background-color: #99FFFF;
     font-weight: 400;
+}
+h2{
+    margin: 0;
+    margin-top: 10px;
+}
+.inline{
+margin:0;
+padding:0;
+display: inline;
+margin-top: 100px;
+}
+#key{
+    border: 1px solid black;
+    display: inline-block;
+    border-radius:5px;
+    margin-top:20px;
+    padding: 10px;
+
 }
